@@ -1,0 +1,16 @@
+{
+  "title": "الغرفة [01]: كارثة في السيرفر 🚨",
+  "description": "اكتشف التوكن السري المسرب قبل أن يقع في أيدي الهاكرز!",
+  "backend": {
+    "imageid": "ubuntu"
+  },
+  "details": {
+    "steps": [
+      {
+        "title": "المهمة",
+        "text": "step1.md",
+        "background": "setup.sh"
+      }
+    ]
+  }
+}
