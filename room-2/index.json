@@ -1,1 +1,26 @@
-
+{
+  "title": "الغرفة [02]: تحليل السجلات المخفية",
+  "description": "سيناريو متقدم في لينكس: تتبع أثر مخترق داخل سيرفر الشركة واستخراج الفلاق من ملف سجلات ضخم.",
+  "details": {
+    "steps": [
+      {
+        "title": "المهمة: إيجاد الفلاق",
+        "text": "step1.md",
+        "background": "background.sh"
+      }
+    ],
+    "intro": {
+      "text": "intro.md",
+      "credits": "Created by f9-o"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}
